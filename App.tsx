@@ -282,7 +282,7 @@ const App: React.FC = () => {
                           <span className="bg-slate-100 px-2 py-0.5 rounded text-xs font-mono">Peso 0.10</span>
                         </li>
                         <li className="flex justify-between items-center pb-1">
-                          <span><strong className="text-green-700">Obsolescência (-5%)</strong>: Penalidade se > 540 dias sem ordem.</span>
+                          <span><strong className="text-green-700">Obsolescência (-5%)</strong>: Penalidade se &gt; 540 dias sem ordem.</span>
                           <span className="bg-green-50 text-green-700 px-2 py-0.5 rounded text-xs font-mono">Peso -0.05</span>
                         </li>
                       </ul>
