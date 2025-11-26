@@ -1,0 +1,5 @@
+{
+  "name": "CESAN Maintenance Prioritization",
+  "description": "A modern dashboard for analyzing and prioritizing equipment maintenance based on criticality, downtime, and frequency scores.",
+  "requestFramePermissions": []
+}
